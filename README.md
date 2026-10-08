@@ -68,6 +68,13 @@ F1-score was used as the primary evaluation metric because both false positives 
 | XGBoost | 98.0% | 97.2% | 98.7% | 97.9% |
 
 Random Forest achieved the highest overall F1-score and was selected as the best-performing model.
+confusion matrix for Random forest:
+
+|                | Predicted Safe | Predicted Phishing |
+|----------------|----------------|--------------------|
+| Actual Safe    | 7811 (TN)      | 108 (FP)           |
+| Actual Phishing| 128 (FN)       | 8451 (TP)          |
+
 
 ## Explainable AI
 
