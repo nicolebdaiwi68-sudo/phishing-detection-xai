@@ -79,6 +79,8 @@ For one test example, the model predicted an email as phishing with approximatel
 
 This improves model transparency by allowing users to understand why a prediction was made.
 
+Results of the lime model: 
+
 ## Human Phishing Awareness Study
 
 A survey was also conducted to investigate how users respond to suspicious emails and how confident they are in identifying phishing attempts.
