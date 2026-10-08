@@ -79,7 +79,7 @@ For one test example, the model predicted an email as phishing with approximatel
 
 This improves model transparency by allowing users to understand why a prediction was made.
 
-Results of the lime model: ![LIME Explanation](lime result example.png)
+Results of the lime model: ![LIME Explanation](lime_result_example.png)
 
 ## Human Phishing Awareness Study
 
